@@ -5,6 +5,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larajustino&show_icons=true&locale=en&layout=compact" alt="larajustino" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larajustino&show_icons=true&locale=en" alt="larajustino" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larajustino&" alt="larajustino" /></p>
